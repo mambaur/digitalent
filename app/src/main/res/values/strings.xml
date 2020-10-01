@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">dtsapps</string>
+    <string name="app_name">Digitalent</string>
+    <string name="menu_option1">Ulang</string>
+    <string name="menu_option2">Keluar</string>
 </resources>
